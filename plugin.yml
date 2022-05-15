@@ -1,0 +1,14 @@
+---
+name: RenameUI
+version: 0.6.9
+main: CJMustard1452\CustomRenames\Main
+api: 3.28.0
+
+commands:
+  renameui:
+    permission: renameui.command
+
+permissions:
+  renameui.command:
+    default: true
+...
